@@ -5,4 +5,4 @@ b <- -2
 a <- 100
 y <- b*x + a
 
-plot(x,y,xlabel="test",ylab="TEST")
+plot(x,y,xlabel="test",ylab="TEST",type="l")
